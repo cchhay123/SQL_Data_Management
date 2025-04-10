@@ -8,7 +8,7 @@ Hi! I'm Chamroeun Chhay, currently sharpening my skills in SQL for database mana
 - **Ordering Results**: Leveraged `ORDER BY` to organize query outputs effectively.
 - **Data Filtering**: Applied `WHERE` clauses with conditions and logical operators.
 
-*Goal*: Master foundational querying techniques to efficiently manage and explore database contents.
+*Goal*: Learn foundational querying techniques to efficiently manage and explore database contents.
 
 ---
 
@@ -28,7 +28,7 @@ Hi! I'm Chamroeun Chhay, currently sharpening my skills in SQL for database mana
 - **CAST Function**: Converted data types effectively using the `CAST` function for compatibility and analysis.
 - **Ranking Functions**: Applied ranking functions (`ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`) to perform detailed data analysis.
 
-*Goal*: Gain expertise in transforming and analyzing data through advanced SQL functions.
+*Goal*: Gain experience in transforming and analyzing data through advanced SQL functions.
 
 ---
 
@@ -37,6 +37,6 @@ Hi! I'm Chamroeun Chhay, currently sharpening my skills in SQL for database mana
 - **Schema Design**: Designed and managed databases using the Snowflake Schema, optimized for analytical querying.
 - **Normalization and Optimization**: Practiced data normalization and implemented schema optimization techniques.
 
-*Goal*: Develop robust and efficient database schemas to support complex analytical tasks.
+*Goal*: Develop efficient database schemas to support complex analytical tasks.
 
 ---
